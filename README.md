@@ -1,6 +1,6 @@
 # Safeguarding Mutual Correction in Source-Free Domain Adaptation via Cut Statistics
 
-This repository contains the official, anonymized PyTorch implementation for our submission. The code has been specifically prepared for the review process, ensuring all identifying information and previous naming conventions have been removed.
+This repository contains the anonymized PyTorch implementation for our submission. The code has been specifically prepared for the review process, ensuring all identifying information and previous naming conventions have been removed.
 
 ## 📁 Project Structure
 
