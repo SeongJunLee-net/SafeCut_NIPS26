@@ -1,6 +1,6 @@
 # Safeguarding Mutual Correction in Source-Free Domain Adaptation via Cut Statistics
 
-## 🎉**Accepted at NeurIPS 2026.**🎉
+## 🎉Accepted at NeurIPS 2026.🎉
 
 This repository contains the official PyTorch implementation of our NeurIPS 2026 paper, *Safeguarding Mutual Correction in Source-Free Domain Adaptation via Cut Statistics*.
 
