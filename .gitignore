@@ -1,0 +1,28 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# SafeCut outputs
+outer_log/
+result/
+*.log
+
+# Locally downloaded pre-trained weights
+pretrained_model/**/*.pt
+pretrained_model/**/*.pth
+pretrained_model/**/*.ckpt

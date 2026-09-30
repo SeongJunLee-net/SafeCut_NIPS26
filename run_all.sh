@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -euo pipefail
 GPU_ID=${1:-0}
 export PYTHON=${PYTHON:-python}
 echo ""

@@ -1,6 +1,5 @@
 #!/bin/bash
-set -e
-set -o pipefail
+set -euo pipefail
 GPU_ID=${1:-0}
 DATASET="office-31"
 METHOD="safecut"
